@@ -7,7 +7,9 @@ Entitas:
 - Cars
 - Car Details
 - Car Availabilities
-  Relasi:
+
+Relasi:
+
 - One Car can have One Car Details (One-to-One)
 - One Car can have Many Car Availability options (One-to-Many)
 
